@@ -1,2 +1,2 @@
 # CRT
-* placement training*
+*placement training
